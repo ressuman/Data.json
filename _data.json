@@ -1,0 +1,79 @@
+[
+  {
+    "project-name": "Landing Page",
+    "description": "I created a landing page to practice my web development skills. This project required basic knowledge of HTML, CSS, and JavaScript. Through this project, I learned how to create columns, divide sections, arrange items, and add headers and footers. The most important aspect was unleashing my creativity to design an impressive page. I paid attention to alignments, padding, color palette, boxes, and other elements. I made sure to use CSS effectively to avoid overlapping elements. This landing page project allowed me to apply HTML and CSS skills while ensuring a visually appealing and user-friendly design.",
+    "languages": ["HTML", "CSS", "JavaScript"],
+    "tools": ["Visual Studio Code", "Git"],
+    "github-repo-link": "https://github.com/ressuman/Simple-Landing-Page-Project.git",
+    "preview-demo-link": ["https://ressuman-simple-landing-page.vercel.app/"],
+    "preview-gif": "https://yourlinkto/landing-page-preview.gif",
+    "category": "Frontend Web Development",
+    "frameworks": ["Bootstrap", "Tailwind CSS"]
+  },
+  {
+    "project-name": "Tribute Page",
+    "description": "I created a tribute page to honor someone I admire. With basic knowledge of HTML, CSS, and JavaScript, I designed a webpage dedicated to this person. I wrote about their admirable qualities, added images, and created a visually appealing layout. I experimented with font styles, used paragraphs effectively, and played with background colors. This project allowed me to express my admiration in a simple and personalized way.",
+    "languages": ["HTML", "CSS", "JavaScript"],
+    "tools": ["Visual Studio Code", "Git"],
+    "github-repo-link": "https://github.com/ressuman/Simple-Tribute-Page-Project.git",
+    "preview-demo-link": [
+      "https://ressuman-simple-tribute-page-project.onrender.com/"
+    ],
+    "preview-gif": "https://yourlinkto/tribute-page-preview.gif",
+    "category": "Frontend Web Development",
+    "frameworks": ["Bootstrap", "Tailwind CSS"]
+  },
+  {
+    "project-name": "Portfolio",
+    "description": "I created a personal portfolio to showcase my skills and projects. This project involved using HTML, CSS, and JavaScript to create different sections such as a header, about me, skills, projects, resume, and contact information. I added my name and a logo at the top, a brief introduction, an image of myself, a short bio, key skills, samples of my work, and a downloadable resume. I included my contact information, such as my email address and phone number, and added a footer with a copyright notice and additional links.",
+    "languages": ["HTML", "CSS", "JavaScript"],
+    "tools": ["Visual Studio Code", "Git"],
+    "github-repo-link": "https://github.com/ressuman/Simple-Portfolio-Project.git",
+    "preview-demo-link": ["https://ressuman-simple-portfolio.pages.dev/home"],
+    "preview-gif": "https://yourlinkto/portfolio-preview.gif",
+    "category": "Frontend Web Development",
+    "frameworks": ["Bootstrap", "Tailwind CSS"]
+  },
+  {
+    "project-name": "Law Firm Landing Page",
+    "description": "For my final project, I replicated a law firm website based on a provided Figma design. This assignment allowed me to practice my web design skills by accurately translating a design into code. I paid attention to details and improved my CSS proficiency. I also used some basic JavaScript to enhance the functionality of the page.",
+    "languages": ["HTML", "CSS", "JavaScript"],
+    "tools": ["Visual Studio Code", "Git"],
+    "github-repo-link": "https://github.com/ressuman/Law-Firm-Landing-Page-Project.git",
+    "preview-demo-link": [
+      "https://ressuman-law-firm-landing-page.netlify.app/"
+    ],
+    "preview-gif": "https://yourlinkto/law-firm-landing-page-preview.gif",
+    "category": "Frontend Web Development",
+    "frameworks": ["Bootstrap", "Tailwind CSS"]
+  },
+  {
+    "project-name": "Calculator App",
+    "description": "I created a basic calculator using HTML, CSS, and JavaScript. This project involved implementing an interactive interface with buttons for addition, subtraction, multiplication, and division operations. The calculator has a display screen to show user input and results. I used CSS grid system for button alignments and event listeners, if-else statements, operators, and loops to handle user input and perform calculations. This project required some skill but was manageable with basic knowledge of these technologies.",
+    "languages": ["HTML", "CSS", "JavaScript"],
+    "tools": ["Visual Studio Code", "Git"],
+    "github-repo-link": "https://github.com/ressuman/Calculator-App-Project.git",
+    "preview-demo-link": [
+      "https://ressuman-simple-calculator-app.netlify.app/"
+    ],
+    "preview-gif": "https://yourlinkto/calculator-app-preview.gif",
+    "category": "Frontend Web Development",
+    "frameworks": ["Bootstrap", "Tailwind CSS"]
+  },
+  {
+    "project-name": "Expense Tracker",
+    "description": "I developed an expense tracker application with a frontend and backend API. The frontend allows users to input and view their expenses, while the backend API handles data storage and retrieval. This project helped me practice full stack web development by integrating frontend and backend technologies.",
+    "languages": ["HTML", "CSS", "JavaScript", "Node.js"],
+    "tools": ["Visual Studio Code", "Git", "Postman"],
+    "github-repo-link": "https://github.com/ressuman/Expense-Tracker-Project/tree/main-mern",
+    "preview-demo-link": [
+      "https://expense-tracker-project-production.up.railway.app/api/v1/transactions",
+      "https://expense-tracker-project-production-dad1.up.railway.app/",
+      "https://re-expense-tracker-bend-ressuman001-6b14ccf0.koyeb.app/api/v1/transactions",
+      "https://ressuman-expense-tracker-frontend.pages.dev/"
+    ],
+    "preview-gif": "https://yourlinkto/expense-tracker-preview.gif",
+    "category": "Full Stack Web Development",
+    "frameworks": ["React", "Express", "NoSQL", "Bootstrap", "Tailwind CSS"]
+  }
+]
