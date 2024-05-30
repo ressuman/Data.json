@@ -75,5 +75,85 @@
     "preview-gif": "https://yourlinkto/expense-tracker-preview.gif",
     "category": "Full Stack Web Development",
     "frameworks": ["React", "Express", "NoSQL", "Bootstrap", "Tailwind CSS"]
+  },
+  {
+    "project-name": "Image Gallery App",
+    "description": "I built an image gallery app using React and Tailwind CSS, integrating it with the Pixabay API. This project involved creating a responsive gallery where users can search for images. The app fetches data from the Pixabay API and displays the images in a grid format. This project helped me practice working with APIs and enhancing the user interface using Tailwind CSS.",
+    "languages": ["HTML", "CSS", "JavaScript"],
+    "tools": ["Visual Studio Code", "Git", "Postman"],
+    "github-repo-link": "https://github.com/ressuman/Image-Gallery-Project.git",
+    "preview-demo-link": ["https://ressuman-image-gallery-app.vercel.app/"],
+    "preview-gif": "https://yourlinkto/image-gallery-app-preview.gif",
+    "category": "Frontend Web Development",
+    "frameworks": ["React", "Tailwind CSS"]
+  },
+  {
+    "project-name": "React Multi-Step Form",
+    "description": "I developed a React multi-step form with multiple components including user & personal details, confirmation, and success. I used Material UI to design the form, ensuring a clean and modern user interface. This project involved managing form state, handling user inputs, and transitioning between form steps. It helped me improve my skills in React and Material UI, as well as managing complex state in a multi-step form.",
+    "languages": ["HTML", "CSS", "JavaScript"],
+    "tools": ["Visual Studio Code", "Git", "Material UI"],
+    "github-repo-link": "https://github.com/ressuman/Multi-Step-Form-Project.git",
+    "preview-demo-link": ["https://ressuman-multi-step-form.onrender.com/"],
+    "preview-gif": "https://yourlinkto/react-multi-step-form-preview.gif",
+    "category": "Frontend Web Development",
+    "frameworks": ["React", "Material UI"]
+  },
+  {
+    "project-name": "Image Finder Application",
+    "description": "I built an image finder application using React and Material UI. This app uses the PixaBay API to fetch images based on a query string. Users can search for images, and the app displays the results in a grid format. Additionally, I implemented a Dialog box from Material UI to view the large image when clicked. This project helped me enhance my skills in working with APIs, managing state in React, and using Material UI components.",
+    "languages": ["HTML", "CSS", "JavaScript"],
+    "tools": ["Visual Studio Code", "Git", "Postman", "Material UI"],
+    "github-repo-link": "https://github.com/ressuman/Search-Image-Finder-Project.git",
+    "preview-demo-link": [
+      "https://search-image-finder-project-production.up.railway.app/"
+    ],
+    "preview-gif": "https://yourlinkto/image-finder-app-preview.gif",
+    "category": "Frontend Web Development",
+    "frameworks": ["React", "Material UI"]
+  },
+  {
+    "project-name": "Facebook Login Button",
+    "description": "I created a Facebook login button in React to get the user's name, email, and picture. This project involved integrating the Facebook Login API to authenticate users and retrieve their profile information. I added the retrieved data to the component state and rendered it on the page. This project helped me understand how to work with third-party authentication APIs and manage user data in React.",
+    "languages": ["HTML", "CSS", "JavaScript"],
+    "tools": ["Visual Studio Code", "Git", "Facebook API"],
+    "github-repo-link": "https://github.com/ressuman/React-Facebook-Login-Button-Project.git",
+    "preview-demo-link": [
+      "https://ressuman-react-facebook-login-button.vercel.app/"
+    ],
+    "preview-gif": "https://yourlinkto/facebook-login-button-preview.gif",
+    "category": "Frontend Web Development",
+    "frameworks": ["React", "Material UI"]
+  },
+  {
+    "project-name": "Full Stack File Upload",
+    "description": "I built a full stack file upload application using React and Express. The UI was constructed with Bootstrap elements, allowing users to select and upload files. The backend, built with Express, handles file storage and retrieval. This project helped me understand how to manage file uploads, work with HTTP requests, and integrate a React frontend with an Express backend.",
+    "languages": ["HTML", "CSS", "JavaScript", "Node.js"],
+    "tools": ["Visual Studio Code", "Git", "Bootstrap", "Express"],
+    "github-repo-link": "https://github.com/ressuman/File-Upload-To-Express-Project.git",
+    "preview-demo-link": [
+      "https://ressuman-file-upload-to-express-bend.onrender.com",
+      "https://ressuman-file-upload-to-express-fend.onrender.com"
+    ],
+    "preview-gif": "https://yourlinkto/full-stack-file-upload-preview.gif",
+    "category": "Full Stack Web Development",
+    "frameworks": ["React", "Express"]
+  },
+  {
+    "project-name": "Audiophile E-commerce App",
+    "description": "I built an audiophile e-commerce app to improve my React knowledge and demonstrate expertise in building complex e-commerce applications. This project involved creating a user-friendly interface, managing state, and handling user authentication and payments. I used various media files, icons, and Figma designs to create a visually appealing and functional site. This project helped me enhance my skills in React, state management, and integrating third-party services for payments and user authentication.",
+    "languages": ["HTML", "CSS", "JavaScript"],
+    "tools": [
+      "Visual Studio Code",
+      "Git",
+      "React",
+      "Redux",
+      "Stripe API",
+      "Figma"
+    ],
+    "github-repo-link": "https://github.com/yourusername/audiophile-ecommerce-app",
+    "preview-demo-link": "https://yourusername.github.io/audiophile-ecommerce-app",
+    "preview-gif": "https://yourlinkto/audiophile-ecommerce-app-preview.gif",
+    "category": "Full Stack Web Development",
+    "frameworks": ["React", "Redux"]
   }
 ]
