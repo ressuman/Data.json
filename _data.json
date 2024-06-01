@@ -131,7 +131,7 @@
     "tools": ["Visual Studio Code", "Git", "Bootstrap", "Express"],
     "github-repo-link": "https://github.com/ressuman/File-Upload-To-Express-Project.git",
     "preview-demo-link": [
-      "https://ressuman-file-upload-to-express-bend.onrender.com",
+      "https://ressuman-file-upload-to-express-bend.onrender.com/files",
       "https://ressuman-file-upload-to-express-fend.onrender.com"
     ],
     "preview-gif": "https://yourlinkto/full-stack-file-upload-preview.gif",
@@ -155,5 +155,41 @@
     "preview-gif": "https://yourlinkto/audiophile-ecommerce-app-preview.gif",
     "category": "Full Stack Web Development",
     "frameworks": ["React", "Redux"]
+  },
+  {
+    "project-name": "Todo List App",
+    "description": "I built a Todo List App where users can add tasks, check them as completed, delete tasks, and filter tasks by completed, active, or all items. This project involved creating a dynamic and interactive user interface, managing the state with React hooks, and ensuring a seamless user experience. It helped me enhance my skills in React, state management, and building CRUD (Create, Read, Update, Delete) applications.",
+    "languages": ["HTML", "CSS", "JavaScript"],
+    "tools": ["Visual Studio Code", "Git", "React"],
+    "github-repo-link": "https://github.com/ressuman/ToDo-App-Project.git",
+    "preview-demo-link": ["https://ressuman-todo-list-app.netlify.app/"],
+    "preview-gif": "https://yourlinkto/todo-list-app-preview.gif",
+    "category": "Frontend Web Development",
+    "frameworks": ["React"]
+  },
+  {
+    "project-name": "Image Gallery with Infinite Scrolling",
+    "description": "I created an Image Gallery with infinite scrolling using Node.js, React, and the Unsplash API. This project involved fetching images from the Unsplash API, implementing infinite scrolling to load more images as the user scrolls down, and managing the state to keep track of the images loaded. It helped me improve my skills in full stack web development, working with APIs, and implementing advanced UI features.",
+    "languages": ["HTML", "CSS", "JavaScript"],
+    "tools": ["Visual Studio Code", "Git", "Node.js", "React", "Unsplash API"],
+    "github-repo-link": "https://github.com/ressuman/React-Infinite-Scrolling-Gallery-Project.git",
+    "preview-demo-link": [
+      "https://react-infinite-scrolling-gallery-bend-app.onrender.com/api/photos",
+      "https://ressuman-infinite-scrolling-gallery.netlify.app/"
+    ],
+    "preview-gif": "https://yourlinkto/image-gallery-infinite-scrolling-preview.gif",
+    "category": "Full Stack Web Development",
+    "frameworks": ["React", "Node.js"]
+  },
+  {
+    "project-name": "Custom Frontend Pagination in React",
+    "description": "I developed a custom pagination feature in React to fetch and display a specific number of posts per page. This project leverages the power of React's useState and useEffect hooks for efficient state management and side effect handling. By implementing this feature, I aimed to enhance user experience by providing seamless navigation through paginated content. This project not only showcases my ability to work with APIs and manage state in a React application but also highlights my skills in creating dynamic and responsive user interfaces.",
+    "languages": ["JavaScript", "HTML", "CSS"],
+    "tools": ["React", "Visual Studio Code", "Git"],
+    "github-repo-link": "https://github.com/ressuman/Simple-Frontend-Pagination-Project.git",
+    "preview-demo-link": ["https://yourdemo-link.com"],
+    "preview-gif": "https://yourlinkto/custom-pagination-preview.gif",
+    "category": "Front End Development",
+    "frameworks": ["React"]
   }
 ]
