@@ -154,16 +154,11 @@
     "project-name": "Audiophile E-commerce App",
     "description": "I built an audiophile e-commerce app to improve my React knowledge and demonstrate expertise in building complex e-commerce applications. This project involved creating a user-friendly interface, managing state, and handling user authentication and payments. I used various media files, icons, and Figma designs to create a visually appealing and functional site. This project helped me enhance my skills in React, state management, and integrating third-party services for payments and user authentication.",
     "languages": ["HTML", "CSS", "JavaScript"],
-    "tools": [
-      "Visual Studio Code",
-      "Git",
-      "React",
-      "Redux",
-      "Stripe API",
-      "Figma"
+    "tools": ["Visual Studio Code", "Git", "React", "Redux", "Figma"],
+    "github-repo-link": "https://github.com/ressuman/Audiophile-E-Commerce-App-Project.git",
+    "preview-demo-link": [
+      "https://ressuman-audiophile-e-commerce-app.vercel.app/"
     ],
-    "github-repo-link": "https://github.com/yourusername/audiophile-ecommerce-app",
-    "preview-demo-link": "https://yourusername.github.io/audiophile-ecommerce-app",
     "preview-gif": "https://yourlinkto/audiophile-ecommerce-app-preview.gif",
     "category": "Full Stack Web Development",
     "frameworks": ["React", "Redux"]
@@ -230,9 +225,37 @@
     "languages": ["JavaScript", "HTML", "CSS"],
     "tools": ["ApexCharts", "React", "Vite", "Visual Studio Code", "Git"],
     "github-repo-link": "https://github.com/ressuman/ApexCharts-Data-Display-Project.git",
-    "preview-demo-link": ["https://yourdemo-link.com"],
+    "preview-demo-link": [
+      "https://ressuman-apexcharts-data-display-app.pages.dev/"
+    ],
     "preview-gif": "https://yourlinkto/apexchart-visualization-preview.gif",
     "category": "Data Visualization",
     "frameworks": ["React"]
+  },
+  {
+    "id": 18,
+    "project-name": "Animated Clock",
+    "description": "In this project, I created an interactive, real-time animated clock using fundamental JavaScript concepts such as variables, functions, and objects. By manipulating the DOM with JavaScript, I animated the clock's hands and incorporated a ticking sound effect. This project is a practical application of JavaScript's Date object, setInterval method, and CSS transformations.",
+    "languages": ["JavaScript", "HTML", "CSS"],
+    "tools": ["Visual Studio Code", "Git"],
+    "github-repo-link": "https://github.com/ressuman/Animated-Clock-Project.git",
+    "preview-demo-link": [
+      "https://ressuman-animated-clock-ske1sh930-richard-essumans-projects.vercel.app/"
+    ],
+    "preview-gif": "https://yourlinkto/clock-animation.gif",
+    "category": "Web Development",
+    "frameworks": ["Vanilla JS"]
+  },
+  {
+    "id": 19,
+    "project-name": "Countdown App",
+    "description": "I built a countdown app to showcase my understanding of JavaScript basics such as variables, functions, and objects. This project involved manipulating the DOM to create interactive web pages with multiple countdown timers. The timers are fully functional and update in real-time.",
+    "languages": ["JavaScript", "HTML", "CSS"],
+    "tools": ["VS Code", "Git"],
+    "github-repo-link": "https://github.com/ressuman/CountDown-Timer-App-Project.git",
+    "preview-demo-link": ["https://ressuman-countdown-timer-app.netlify.app/"],
+    "preview-gif": "https://yourlinkto/countdown-preview.gif",
+    "category": "Web Development",
+    "frameworks": ["Vanilla JS"]
   }
 ]
