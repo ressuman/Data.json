@@ -229,7 +229,7 @@
       "https://ressuman-apexcharts-data-display-app.pages.dev/"
     ],
     "preview-gif": "https://yourlinkto/apexchart-visualization-preview.gif",
-    "category": "Data Visualization",
+    "category": "Front End Development",
     "frameworks": ["React"]
   },
   {
@@ -243,7 +243,7 @@
       "https://ressuman-animated-clock-ske1sh930-richard-essumans-projects.vercel.app/"
     ],
     "preview-gif": "https://yourlinkto/clock-animation.gif",
-    "category": "Web Development",
+    "category": "Front End Development",
     "frameworks": ["Vanilla JS"]
   },
   {
@@ -255,7 +255,49 @@
     "github-repo-link": "https://github.com/ressuman/CountDown-Timer-App-Project.git",
     "preview-demo-link": ["https://ressuman-countdown-timer-app.netlify.app/"],
     "preview-gif": "https://yourlinkto/countdown-preview.gif",
-    "category": "Web Development",
+    "category": "Front End Development",
     "frameworks": ["Vanilla JS"]
+  },
+  {
+    "id": 20,
+    "project-name": "Tapas App",
+    "description": "I created a tapas app to showcase my understanding of JavaScript basics such as variables, functions, and objects. This project involved manipulating the DOM to create an interactive web page with a list of tapas and a form to add new tapas. The data is stored in localStorage, ensuring it persists even after the browser is closed.",
+    "languages": ["JavaScript", "HTML", "CSS"],
+    "tools": ["VS Code", "Git"],
+    "github-repo-link": "https://github.com/ressuman/Local-Food-Tapas-Joint-Project.git",
+    "preview-demo-link": [
+      "https://ressuman-local-food-tapas-joint-app.pages.dev/"
+    ],
+    "preview-gif": "https://yourlinkto/tapas-preview.gif",
+    "category": "Front End Development",
+    "frameworks": ["Vanilla JS"]
+  },
+  {
+    "id": 21,
+    "project-name": "GitHub User Profile Viewer",
+    "description": "I built a GitHub User Profile Viewer to showcase my skills in working with APIs, handling asynchronous JavaScript, and dynamically updating the DOM. This project uses the GitHub Users API to pull profile data based on user input and display it on the webpage.",
+    "languages": ["JavaScript", "HTML", "CSS"],
+    "tools": ["VS Code", "Git"],
+    "github-repo-link": "https://github.com/ressuman/GitHub-User-Search-Project.git",
+    "preview-demo-link": [
+      "https://ressuman-github-user-search-app.vercel.app/"
+    ],
+    "preview-gif": "https://yourlinkto/github-profile-viewer-preview.gif",
+    "category": "Front End Development",
+    "frameworks": ["React"]
+  },
+  {
+    "id": 22,
+    "project-name": "Country Data Explorer",
+    "description": "I built a Country Data Explorer to showcase my skills in working with APIs, managing user input, and creating responsive UIs. This project uses the REST Countries API to pull and display country data, including features like search, filter, and detailed views for each country.",
+    "languages": ["JavaScript", "HTML", "CSS"],
+    "tools": ["React", "VS Code", "Git"],
+    "github-repo-link": "https://github.com/ressuman/Rest-Countries-App-Project.git",
+    "preview-demo-link": [
+      "https://ressuman-rest-countries-data-explorer.netlify.app/"
+    ],
+    "preview-gif": "https://yourlinkto/country-data-explorer-preview.gif",
+    "category": "Front End Development",
+    "frameworks": ["React"]
   }
 ]
