@@ -299,5 +299,21 @@
     "preview-gif": "https://yourlinkto/country-data-explorer-preview.gif",
     "category": "Front End Development",
     "frameworks": ["React"]
+  },
+  {
+    "id": 23,
+    "project-name": "DevCamper API",
+    "description": "I developed a backend API for the DevCamper application, which is a bootcamp directory website. This project demonstrates my skills in building RESTful APIs, managing complex database relationships, and implementing robust CRUD operations.",
+    "languages": ["JavaScript"],
+    "tools": ["Node.js", "Express", "MongoDB", "Mongoose"],
+    "github-repo-link": "https://github.com/ressuman/DevCamper-Bootcamp-Backend-Directory-Project.git",
+    "preview-demo-link": [
+      "https://ressuman-devcamper-bootcamp-backend.onrender.com/",
+      "https://ressuman-devcamper-bootcamp-backend.onrender.com/api/v1/bootcamps",
+      "https://ressuman-devcamper-bootcamp-backend.onrender.com/api/v1/users"
+    ],
+    "preview-gif": "https://yourlinkto/devcamper-api-preview.gif",
+    "category": "Backend Development",
+    "frameworks": ["Node.js", "Express"]
   }
 ]
