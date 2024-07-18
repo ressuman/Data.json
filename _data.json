@@ -315,5 +315,29 @@
     "preview-gif": "https://yourlinkto/devcamper-api-preview.gif",
     "category": "Backend Development",
     "frameworks": ["Node.js", "Express"]
+  },
+  {
+    "id": 24,
+    "project-name": "Pizza Menu Items List",
+    "description": "I developed a web application where I can add and create a menu list for pizzas. The app features a form that allows me to input the title, description, toppings, and price for each pizza. This project demonstrates my skills in handling form submissions, managing state, and dynamically rendering content.",
+    "languages": ["JavaScript", "HTML", "CSS", "TypeScript"],
+    "tools": ["TypeScript", "Node.js"],
+    "github-repo-link": "https://github.com/ressuman/Food-Menu-Items-Project.git",
+    "preview-demo-link": ["https://yourdemo-link.com"],
+    "preview-gif": "https://yourlinkto/pizza-menu-items-list-preview.gif",
+    "category": "Front End Development",
+    "frameworks": ["Vanilla JS", "Node.js"]
+  },
+  {
+    "id": 25,
+    "project_name": "Portfolio Website 1-React",
+    "description": "I created a portfolio website using React to showcase my projects, skills, and experience. This site includes an interactive and responsive design, project gallery, contact form, and a blog section. The goal was to build a professional and aesthetically pleasing online presence.",
+    "languages": ["JavaScript", "HTML", "CSS"],
+    "tools": ["React", "Visual Studio Code", "Git"],
+    "github_repo_link": "https://github.com/ressuman/React-Portfolio-1-Project.git",
+    "preview_demo_link": ["https://yourdemo-link.com"],
+    "preview_gif": "https://yourlinkto/portfolio-website-preview.gif",
+    "category": "Front End Development",
+    "frameworks": ["React"]
   }
 ]
