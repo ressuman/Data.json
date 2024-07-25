@@ -73,8 +73,8 @@
     "tools": ["Visual Studio Code", "Git", "Postman"],
     "github-repo-link": "https://github.com/ressuman/Expense-Tracker-Project/tree/main-mern",
     "preview-demo-link": [
-      "https://expense-tracker-project-production.up.railway.app/api/v1/transactions",
-      "https://expense-tracker-project-production-dad1.up.railway.app/",
+      "https://ressuman-expense-tracker-app-server.onrender.com/api/v1/transactions",
+      "https://ressuman-expense-tracker-app-client.pages.dev/",
       "https://re-expense-tracker-bend-ressuman001-6b14ccf0.koyeb.app/api/v1/transactions",
       "https://ressuman-expense-tracker-frontend.pages.dev/"
     ],
@@ -114,7 +114,7 @@
     "tools": ["Visual Studio Code", "Git", "Postman", "Material UI"],
     "github-repo-link": "https://github.com/ressuman/Search-Image-Finder-Project.git",
     "preview-demo-link": [
-      "https://search-image-finder-project-production.up.railway.app/"
+      "https://ressuman-search-image-finder-app.pages.dev/"
     ],
     "preview-gif": "https://yourlinkto/image-finder-app-preview.gif",
     "category": "Frontend Web Development",
@@ -335,7 +335,9 @@
     "languages": ["JavaScript", "HTML", "CSS"],
     "tools": ["React", "Visual Studio Code", "Git"],
     "github_repo_link": "https://github.com/ressuman/React-Portfolio-1-Project.git",
-    "preview_demo_link": ["https://yourdemo-link.com"],
+    "preview_demo_link": [
+      "https://ressuman-personalportfolio1-react-app.netlify.app/"
+    ],
     "preview_gif": "https://yourlinkto/portfolio-website-preview.gif",
     "category": "Front End Development",
     "frameworks": ["React"]
