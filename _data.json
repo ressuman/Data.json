@@ -341,5 +341,29 @@
     "preview_gif": "https://yourlinkto/portfolio-website-preview.gif",
     "category": "Front End Development",
     "frameworks": ["React"]
+  },
+  {
+    "id": 26,
+    "project_name": "Drag and Drop Project Management",
+    "description": "A TypeScript-based drag-and-drop project management application. Users can create projects with a title, description, and number of people, and organize them into 'Active' or 'Finished' lists. Features include dynamic form validation, draggable list items, and modular code using namespaces and decorators.",
+    "languages": ["TypeScript", "JavaScript", "HTML", "CSS"],
+    "tools": ["Visual Studio Code", "Git"],
+    "github_repo_link": "https://github.com/ressuman/Drag-And-Drop-Project.git",
+    "preview_demo_link": ["https://ressuman-drag-and-drop-app.vercel.app/"],
+    "preview_gif": "https://yourlinkto/drag-drop-project-management-preview.gif",
+    "category": "Front End Development",
+    "frameworks": ["Vanilla JS", "Vanilla TypeScript"]
+  },
+  {
+    "id": 27,
+    "project_name": "Mini Fintech App",
+    "description": "A mini fintech application utilizing Firebase for backend and Paystack for payment processing. It supports user sign-up, login, adding money, sending money, and viewing transaction history.",
+    "languages": ["JavaScript", "HTML", "CSS"],
+    "tools": ["React", "Firebase", "Paystack"],
+    "github_repo_link": "https://github.com/ressuman/Mini-Fintech-App-Project.git",
+    "preview_demo_link": ["https://yourdemoapp.com"],
+    "preview_gif": "https://yourlinkto/mini-fintech-app-preview.gif",
+    "category": "Full Stack Development",
+    "frameworks": ["React"]
   }
 ]
