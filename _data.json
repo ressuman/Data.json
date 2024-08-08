@@ -323,7 +323,11 @@
     "languages": ["JavaScript", "HTML", "CSS", "TypeScript"],
     "tools": ["TypeScript", "Node.js"],
     "github-repo-link": "https://github.com/ressuman/Food-Menu-Items-Project.git",
-    "preview-demo-link": ["https://yourdemo-link.com"],
+    "preview-demo-link": [
+      "https://ressuman-food-menu-items-server-app.onrender.com/api/v1/pizzas",
+      "https://ressuman-food-menu-items-server-app.onrender.com",
+      "https://ressuman-food-menu-items-pizza-client-app.vercel.app/"
+    ],
     "preview-gif": "https://yourlinkto/pizza-menu-items-list-preview.gif",
     "category": "Front End Development",
     "frameworks": ["Vanilla JS", "Node.js"]
@@ -357,7 +361,7 @@
   {
     "id": 27,
     "project_name": "Mini Fintech App",
-    "description": "A mini fintech application utilizing Firebase for backend and Paystack for payment processing. It supports user sign-up, login, adding money, sending money, and viewing transaction history.",
+    "description": "I developed a comprehensive mini fintech application that leverages Firebase for backend services and Paystack for secure payment processing. This application supports a range of essential financial features including user sign-up and login, adding money to the user's account, sending money to other users, and viewing detailed transaction history. The user authentication and real-time database capabilities of Firebase ensure a seamless and secure user experience. Paystack integration allows for robust and reliable payment processing, adhering to high-security standards. This project demonstrates my ability to create full-stack applications that are both functional and secure, offering users a smooth and efficient way to manage their finances.",
     "languages": ["JavaScript", "HTML", "CSS"],
     "tools": ["React", "Firebase", "Paystack"],
     "github_repo_link": "https://github.com/ressuman/Mini-Fintech-App-Project.git",
@@ -365,5 +369,17 @@
     "preview_gif": "https://yourlinkto/mini-fintech-app-preview.gif",
     "category": "Full Stack Development",
     "frameworks": ["React"]
+  },
+  {
+    "id": 28,
+    "project_name": "Sharing a Place via Google Maps",
+    "description": "I developed a web application that allows users to search for an address and view its corresponding location on a Google Map. This project leverages the power of TypeScript for type-safe coding, Axios for making HTTP requests, and the Google Maps API for map rendering. Users can input an address, and the application fetches the location data from the Google Geocoding API, displaying it on an interactive Google Map. This project showcases my ability to integrate third-party APIs and handle asynchronous operations efficiently. It also demonstrates my skills in frontend development, ensuring a user-friendly interface for a seamless experience.",
+    "languages": ["TypeScript", "HTML", "CSS"],
+    "tools": ["Axios", "Google Maps API", "Webpack"],
+    "github_repo_link": "https://github.com/ressuman/Sharing-A-Place-Via-Google-Maps-Project.git",
+    "preview_demo_link": ["https://yourdemoapp.com"],
+    "preview_gif": "https://yourlinkto/sharing-a-place-via-google-maps-preview.gif",
+    "category": "Frontend Development",
+    "frameworks": ["Vanilla JS", "Vanilla TypeScript"]
   }
 ]
