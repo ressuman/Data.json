@@ -330,7 +330,7 @@
     ],
     "preview-gif": "https://yourlinkto/pizza-menu-items-list-preview.gif",
     "category": "Front End Development",
-    "frameworks": ["Vanilla JS", "Node.js"]
+    "frameworks": ["Vanilla JS", "Node.js", "Parcel JS"]
   },
   {
     "id": 25,
