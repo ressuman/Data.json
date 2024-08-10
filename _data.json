@@ -365,7 +365,9 @@
     "languages": ["JavaScript", "HTML", "CSS"],
     "tools": ["React", "Firebase", "Paystack"],
     "github_repo_link": "https://github.com/ressuman/Mini-Fintech-App-Project.git",
-    "preview_demo_link": ["https://yourdemoapp.com"],
+    "preview_demo_link": [
+      "https://ressuman-mini-fintech-bank-app.netlify.app/"
+    ],
     "preview_gif": "https://yourlinkto/mini-fintech-app-preview.gif",
     "category": "Full Stack Development",
     "frameworks": ["React"]
