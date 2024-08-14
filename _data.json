@@ -383,5 +383,21 @@
     "preview_gif": "https://yourlinkto/sharing-a-place-via-google-maps-preview.gif",
     "category": "Frontend Development",
     "frameworks": ["Vanilla JS", "Vanilla TypeScript"]
+  },
+  {
+    "id": 29,
+    "project_name": "React User Poster - Client-Side (Frontend)",
+    "description": "This is the client-side (frontend) part of a Post Management Application built using React, Axios, and React Router. The application allows users to create, view, and interact with posts. It features a responsive design, modal-based post creation, and integration with a backend server. The project showcases my ability to build a user-friendly interface with modern web technologies.",
+    "languages": ["JavaScript", "HTML", "CSS"],
+    "tools": ["React", "Axios", "React Router", "Tailwind CSS", "Vite"],
+    "github_repo_link": "https://github.com/ressuman/User-Posts-Project.git",
+    "preview_demo_link": [
+      " https://ressuman-user-posts-management-app-server.onrender.com/posts",
+      " https://ressuman-user-posts-management-app-server.onrender.com/",
+      "https://ressuman-user-posts-management-app-client.pages.dev/"
+    ],
+    "preview_gif": "https://yourlinkto/react-user-poster-frontend-preview.gif",
+    "category": "Frontend Development",
+    "frameworks": ["React"]
   }
 ]
