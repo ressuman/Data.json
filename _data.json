@@ -386,10 +386,17 @@
   },
   {
     "id": 29,
-    "project_name": "React User Poster - Client-Side (Frontend)",
-    "description": "This is the client-side (frontend) part of a Post Management Application built using React, Axios, and React Router. The application allows users to create, view, and interact with posts. It features a responsive design, modal-based post creation, and integration with a backend server. The project showcases my ability to build a user-friendly interface with modern web technologies.",
+    "project_name": "React User Poster Management",
+    "description": "This is a Post Management Application built using React, Axios, and React Router. The application allows users to create, view, and interact with posts. It features a responsive design, modal-based post creation, and integration with a backend server. The project showcases my ability to build a user-friendly interface with modern web technologies.",
     "languages": ["JavaScript", "HTML", "CSS"],
-    "tools": ["React", "Axios", "React Router", "Tailwind CSS", "Vite"],
+    "tools": [
+      "React",
+      "Axios",
+      "React Router",
+      "Tailwind CSS",
+      "Vite",
+      "Node.js"
+    ],
     "github_repo_link": "https://github.com/ressuman/User-Posts-Project.git",
     "preview_demo_link": [
       " https://ressuman-user-posts-management-app-server.onrender.com/posts",
@@ -397,6 +404,29 @@
       "https://ressuman-user-posts-management-app-client.pages.dev/"
     ],
     "preview_gif": "https://yourlinkto/react-user-poster-frontend-preview.gif",
+    "category": "Frontend Development",
+    "frameworks": ["React", "Express"]
+  },
+  {
+    "id": 30,
+    "project_name": "MeetUp Manager",
+    "description": "MeetUp Manager is a full-stack application built with React and Firebase. It allows users to view, add, and manage meetups. The application includes features for adding new meetups, marking favorites, and fetching data from Firebase. It showcases a responsive design with a modern user interface using Tailwind CSS.",
+    "languages": ["JavaScript", "HTML", "CSS"],
+    "tools": [
+      "React",
+      "Firebase",
+      "Tailwind CSS",
+      "Axios",
+      "React Router",
+      "Vite"
+    ],
+    "github_repo_link": "https://github.com/ressuman/React-Form-MeetUps-Project.git",
+    "preview_demo_link": [
+      "https://ressuman-react-form-meetups-default-rtdb.firebaseio.com",
+      "https://ressuman-react-form-meetups-default-rtdb.firebaseio.com/meetups.json",
+      "https://ressuman-form-meetups-management-app.netlify.app/"
+    ],
+    "preview_gif": "https://yourlinkto/meetup-manager-preview.gif",
     "category": "Frontend Development",
     "frameworks": ["React"]
   }
