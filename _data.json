@@ -389,14 +389,7 @@
     "project_name": "React User Poster Management",
     "description": "This is a Post Management Application built using React, Axios, and React Router. The application allows users to create, view, and interact with posts. It features a responsive design, modal-based post creation, and integration with a backend server. The project showcases my ability to build a user-friendly interface with modern web technologies.",
     "languages": ["JavaScript", "HTML", "CSS"],
-    "tools": [
-      "React",
-      "Axios",
-      "React Router",
-      "Tailwind CSS",
-      "Vite",
-      "Node.js"
-    ],
+    "tools": ["React", "Axios", "React Router", "Vite", "Node.js"],
     "github_repo_link": "https://github.com/ressuman/User-Posts-Project.git",
     "preview_demo_link": [
       " https://ressuman-user-posts-management-app-server.onrender.com/posts",
@@ -410,16 +403,9 @@
   {
     "id": 30,
     "project_name": "MeetUp Manager",
-    "description": "MeetUp Manager is a full-stack application built with React and Firebase. It allows users to view, add, and manage meetups. The application includes features for adding new meetups, marking favorites, and fetching data from Firebase. It showcases a responsive design with a modern user interface using Tailwind CSS.",
+    "description": "MeetUp Manager is a full-stack application built with React and Firebase. It allows users to view, add, and manage meetups. The application includes features for adding new meetups, marking favorites, and fetching data from Firebase. It showcases a responsive design with a modern user interface using CSS.",
     "languages": ["JavaScript", "HTML", "CSS"],
-    "tools": [
-      "React",
-      "Firebase",
-      "Tailwind CSS",
-      "Axios",
-      "React Router",
-      "Vite"
-    ],
+    "tools": ["React", "Firebase", "Axios", "React Router", "Vite"],
     "github_repo_link": "https://github.com/ressuman/React-Form-MeetUps-Project.git",
     "preview_demo_link": [
       "https://ressuman-react-form-meetups-default-rtdb.firebaseio.com",
@@ -429,5 +415,19 @@
     "preview_gif": "https://yourlinkto/meetup-manager-preview.gif",
     "category": "Frontend Development",
     "frameworks": ["React"]
+  },
+  {
+    "id": 31,
+    "project_name": "Meals Explorer",
+    "description": "Meals Explorer is a Next.js application for discovering, sharing, and exploring meal recipes. Users can browse through a collection of meals, view detailed recipes, and submit their favorite dishes. The application features a responsive design, integrates with AWS S3 for image storage, and uses a SQLite database for managing meal data. It offers a modern user interface styled with CSS.",
+    "languages": ["JavaScript", "HTML", "CSS"],
+    "tools": ["Next.js", "AWS S3", "SQLite", "React", "Image Processing"],
+    "github_repo_link": "https://github.com/ressuman/Meals-Foodie-All-Foods-Project.git",
+    "preview_demo_link": [
+      "https://ressuman-meals-foodie-all-foods-app.vercel.app/"
+    ],
+    "preview_gif": "https://yourlinkto/meals-explorer-preview.gif",
+    "category": "Full Stack Development",
+    "frameworks": ["Next.js", "React"]
   }
 ]
