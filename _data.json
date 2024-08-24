@@ -429,5 +429,17 @@
     "preview_gif": "https://yourlinkto/meals-explorer-preview.gif",
     "category": "Full Stack Development",
     "frameworks": ["Next.js", "React"]
+  },
+  {
+    "id": 32,
+    "project_name": "Next News Archive",
+    "description": "Next News Archive is a modern Next.js application designed to deliver the latest news and provide access to archived articles. The application supports dynamic routing, server-side rendering, and features a modular design for easy scalability. It includes a marketing section, a dedicated news archive, and supports custom error pages. The project utilizes a dummy dataset for news articles and images, and offers a responsive and clean user interface.",
+    "languages": ["JavaScript", "HTML", "CSS"],
+    "tools": ["Next.js", "React", "Dynamic Routing", "Server-side Rendering"],
+    "github_repo_link": "https://github.com/ressuman/News-Archive-Web-Project.git",
+    "preview_demo_link": ["https://ressuman-news-archive-web-app.netlify.app/"],
+    "preview_gif": "https://yourlinkto/next-news-archive-preview.gif",
+    "category": "Frontend Development",
+    "frameworks": ["Next.js", "React"]
   }
 ]
