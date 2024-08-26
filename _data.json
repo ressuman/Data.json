@@ -441,5 +441,23 @@
     "preview_gif": "https://yourlinkto/next-news-archive-preview.gif",
     "category": "Frontend Development",
     "frameworks": ["Next.js", "React"]
+  },
+  {
+    "id": 33,
+    "project_name": "Feed Post",
+    "description": "Feed Post is a dynamic and interactive Next.js application designed for sharing and browsing posts. The application supports server-side rendering, image uploads via Cloudinary, and features a modular design with reusable components. Users can create posts, like them, and view a feed of all posts. The project includes error handling, loading states, and leverages SQLite for database interactions.",
+    "languages": ["JavaScript", "HTML", "CSS"],
+    "tools": [
+      "Next.js",
+      "React",
+      "Server-side Rendering",
+      "Cloudinary",
+      "SQLite"
+    ],
+    "github_repo_link": "https://github.com/ressuman/Next-Feed-Posts-Project.git",
+    "preview_demo_link": ["https://ressuman-feed-post.netlify.app/"],
+    "preview_gif": "https://yourlinkto/feed-post-preview.gif",
+    "category": "Frontend Development",
+    "frameworks": ["Next.js", "React"]
   }
 ]
