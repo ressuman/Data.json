@@ -459,5 +459,25 @@
     "preview_gif": "https://yourlinkto/feed-post-preview.gif",
     "category": "Frontend Development",
     "frameworks": ["Next.js", "React"]
+  },
+  {
+    "id": 34,
+    "project_name": "Messaging and Chat Upload",
+    "description": "Messaging and Chat Upload is an advanced Next.js application designed for seamless communication. The app features real-time messaging, chat uploads, and dynamic content rendering. It uses SQLite for data storage, Express.js for the backend, and supports server-side rendering. The project is modular, with reusable components, and includes caching strategies for optimal performance.",
+    "languages": ["JavaScript", "HTML", "CSS"],
+    "tools": [
+      "Next.js",
+      "React",
+      "Server-side Rendering",
+      "Express.js",
+      "SQLite"
+    ],
+    "github_repo_link": "https://github.com/ressuman/Next-Messages-And-Chat-Upload-Project.git",
+    "preview_demo_link": [
+      "https://ressuman-messaging-chat-upload.netlify.app/"
+    ],
+    "preview_gif": "https://yourlinkto/messaging-chat-upload-preview.gif",
+    "category": "Fullstack Development",
+    "frameworks": ["Next.js", "React", "Express.js"]
   }
 ]
