@@ -473,11 +473,21 @@
       "SQLite"
     ],
     "github_repo_link": "https://github.com/ressuman/Next-Messages-And-Chat-Upload-Project.git",
-    "preview_demo_link": [
-      "https://ressuman-messaging-chat-upload.netlify.app/"
-    ],
+    "preview_demo_link": ["https://ressuman-messagin"],
     "preview_gif": "https://yourlinkto/messaging-chat-upload-preview.gif",
     "category": "Fullstack Development",
     "frameworks": ["Next.js", "React", "Express.js"]
+  },
+  {
+    "id": 35,
+    "project_name": "Training Exercise App",
+    "description": "The Training Exercise App is an online platform designed to provide users with access to a wide range of training exercises. The app features a secure authentication system, a comprehensive catalog of training modules, and user profile management. It utilizes SQLite for data storage and offers a responsive, user-friendly interface.",
+    "languages": ["JavaScript", "HTML", "CSS"],
+    "tools": ["Next.js", "React", "Server-side Rendering", "SQLite"],
+    "github_repo_link": "https://github.com/ressuman/Online-Authenticated-Training-Exercise-Project.git",
+    "preview_demo_link": ["https://ressuman-trainin"],
+    "preview_gif": "https://yourlinkto/training-exercise-app-preview.gif",
+    "category": "Fullstack Development",
+    "frameworks": ["Next.js", "React"]
   }
 ]
