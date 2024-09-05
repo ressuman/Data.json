@@ -489,5 +489,19 @@
     "preview_gif": "https://yourlinkto/training-exercise-app-preview.gif",
     "category": "Fullstack Development",
     "frameworks": ["Next.js", "React"]
+  },
+  {
+    "id": 36,
+    "project_name": "Events Handler App",
+    "description": "The Events Handler App is a dynamic event listing platform built with Next.js 14. It features a fully responsive design, server-side rendering, and static site generation. Users can browse, search, and filter events. The app includes modular components for event details, error alerts, and UI elements, all while utilizing CSS Modules for scoped styling.",
+    "languages": ["JavaScript", "HTML", "CSS"],
+    "tools": ["Next.js", "React", "Server-side Rendering", "CSS Modules"],
+    "github_repo_link": "https://github.com/ressuman/Next-Events-Handler-Project.git",
+    "preview_demo_link": [
+      "https://ressuman-events-handler-app-demo.netlify.app"
+    ],
+    "preview_gif": "https://yourlinkto/events-handler-app-preview.gif",
+    "category": "Frontend Development",
+    "frameworks": ["Next.js", "React"]
   }
 ]
