@@ -503,5 +503,19 @@
     "preview_gif": "https://yourlinkto/events-handler-app-preview.gif",
     "category": "Frontend Development",
     "frameworks": ["Next.js", "React"]
+  },
+  {
+    "id": 37,
+    "project_name": "Next Full Blog Posts",
+    "description": "The Next Full Blog Posts project is a comprehensive blogging platform built with Next.js 14. It features dynamic routing, server-side rendering, and static site generation for optimal performance. Users can read, create, and contact the author through a responsive and user-friendly interface. The app leverages Markdown for content management and includes modular components for blog posts, contact forms, and UI notifications, all styled using CSS Modules.",
+    "languages": ["JavaScript", "HTML", "CSS"],
+    "tools": ["Next.js", "React", "Markdown", "CSS Modules"],
+    "github_repo_link": "https://github.com/ressuman/Next-Full-Blog-Posts-Project.git",
+    "preview_demo_link": [
+      "https://ressuman-next-full-blog-posts-demo.netlify.app"
+    ],
+    "preview_gif": "https://yourlinkto/next-full-blog-posts-preview.gif",
+    "category": "Frontend Development",
+    "frameworks": ["Next.js", "React"]
   }
 ]
