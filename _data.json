@@ -437,7 +437,9 @@
     "languages": ["JavaScript", "HTML", "CSS"],
     "tools": ["Next.js", "React", "Dynamic Routing", "Server-side Rendering"],
     "github_repo_link": "https://github.com/ressuman/News-Archive-Web-Project.git",
-    "preview_demo_link": ["https://ressuman-news-archive-web-app.netlify.app/"],
+    "preview_demo_link": [
+      "https://ressuman-news-archives-web-app.netlify.app/"
+    ],
     "preview_gif": "https://yourlinkto/next-news-archive-preview.gif",
     "category": "Frontend Development",
     "frameworks": ["Next.js", "React"]
