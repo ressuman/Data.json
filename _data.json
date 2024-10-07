@@ -421,7 +421,7 @@
     "project_name": "Meals Explorer",
     "description": "Meals Explorer is a Next.js application for discovering, sharing, and exploring meal recipes. Users can browse through a collection of meals, view detailed recipes, and submit their favorite dishes. The application features a responsive design, integrates with AWS S3 for image storage, and uses a SQLite database for managing meal data. It offers a modern user interface styled with CSS.",
     "languages": ["JavaScript", "HTML", "CSS"],
-    "tools": ["Next.js", "AWS S3", "SQLite", "React", "Image Processing"],
+    "tools": ["Next.js", "AWS S3", "SQLite", "React", "Image Processing","Supabase"],
     "github_repo_link": "https://github.com/ressuman/Meals-Foodie-All-Foods-Project.git",
     "preview_demo_link": [
       "https://ressuman-meals-foodie-all-foods-app.vercel.app/"
@@ -435,7 +435,7 @@
     "project_name": "Next News Archive",
     "description": "Next News Archive is a modern Next.js application designed to deliver the latest news and provide access to archived articles. The application supports dynamic routing, server-side rendering, and features a modular design for easy scalability. It includes a marketing section, a dedicated news archive, and supports custom error pages. The project utilizes a dummy dataset for news articles and images, and offers a responsive and clean user interface.",
     "languages": ["JavaScript", "HTML", "CSS"],
-    "tools": ["Next.js", "React", "Dynamic Routing", "Server-side Rendering"],
+    "tools": ["Next.js", "React", "Dynamic Routing", "Server-side Rendering","Supabase","SQLite"],
     "github_repo_link": "https://github.com/ressuman/News-Archive-Web-Project.git",
     "preview_demo_link": [
       "https://ressuman-news-archives-web-app.netlify.app/"
@@ -454,10 +454,10 @@
       "React",
       "Server-side Rendering",
       "Cloudinary",
-      "SQLite"
+      "Supabase","SQLite"
     ],
     "github_repo_link": "https://github.com/ressuman/Next-Feed-Posts-Project.git",
-    "preview_demo_link": ["https://ressuman-feed-post.netlify.app/"],
+    "preview_demo_link": [""],
     "preview_gif": "https://yourlinkto/feed-post-preview.gif",
     "category": "Frontend Development",
     "frameworks": ["Next.js", "React"]
@@ -472,10 +472,10 @@
       "React",
       "Server-side Rendering",
       "Express.js",
-      "SQLite"
+      "SQLite","Supabase"
     ],
     "github_repo_link": "https://github.com/ressuman/Next-Messages-And-Chat-Upload-Project.git",
-    "preview_demo_link": ["https://ressuman-messagin"],
+    "preview_demo_link": ["https://ressuman-next-messages-and-chat-upload-app.vercel.app/"],
     "preview_gif": "https://yourlinkto/messaging-chat-upload-preview.gif",
     "category": "Fullstack Development",
     "frameworks": ["Next.js", "React", "Express.js"]
@@ -521,3 +521,90 @@
     "frameworks": ["Next.js", "React"]
   }
 ]
+
+const dummyPosts = [
+  {
+    image_url: "https://example.com/news_tech.jpg",
+    title: "Breakthrough in Quantum Computing",
+    content: "Researchers at MIT have developed a new quantum processor capable of solving complex problems exponentially faster than traditional computers.",
+    user_id: 1
+  },
+  {
+    image_url: "https://example.com/news_environment.jpg",
+    title: "Amazon Rainforest Sees Record Deforestation",
+    content: "Brazil has reported the highest deforestation rate in the Amazon rainforest in the past decade, raising concerns among environmentalists.",
+    user_id: 2
+  },
+  {
+    image_url: "https://example.com/news_politics.jpg",
+    title: "Elections in Germany: A Shift in Power?",
+    content: "Germany's federal election results suggest a significant shift, with the Green Party gaining a historic number of seats in parliament.",
+    user_id: 3
+  },
+  {
+    image_url: "https://example.com/news_health.jpg",
+    title: "New Breakthrough in Cancer Treatment",
+    content: "Scientists at Stanford University have developed a new therapy that targets cancer cells without harming healthy tissue, showing promising early results.",
+    user_id: 4
+  },
+  {
+    image_url: "https://example.com/news_sports.jpg",
+    title: "Olympics 2024: Paris Gears Up for the Games",
+    content: "As Paris prepares for the 2024 Summer Olympics, the city is undergoing massive infrastructure upgrades to accommodate athletes and tourists.",
+    user_id: 5
+  },
+  {
+    image_url: "https://example.com/news_tech_ai.jpg",
+    title: "AI Revolution: How AI is Shaping the Future of Work",
+    content: "A new report reveals that AI could automate up to 40% of current jobs within the next 20 years, leading to a global transformation of the workforce.",
+    user_id: 6
+  },
+  {
+    image_url: "https://example.com/news_climate.jpg",
+    title: "Climate Change Summit 2024: Urgent Calls for Action",
+    content: "World leaders gather in Tokyo for the 2024 Climate Change Summit, calling for immediate global action to reduce carbon emissions.",
+    user_id: 7
+  },
+  {
+    image_url: "https://example.com/news_politics_uk.jpg",
+    title: "UK Prime Minister Faces Confidence Vote",
+    content: "The UK Prime Minister is set to face a vote of confidence in parliament following a series of political scandals and public protests.",
+    user_id: 8
+  },
+  {
+    image_url: "https://example.com/news_entertainment.jpg",
+    title: "Hollywood Strike: Actors and Writers Demand Better Pay",
+    content: "Hollywood is facing a major shutdown as actors and writers unite in a strike for better wages and improved working conditions.",
+    user_id: 1
+  },
+  {
+    image_url: "https://example.com/news_science_space.jpg",
+    title: "NASA’s Artemis Mission: Preparing for Lunar Colonization",
+    content: "NASA's Artemis mission aims to establish a sustainable human presence on the Moon by 2030, marking a new era in space exploration.",
+    user_id: 2
+  },
+  {
+    image_url: "https://example.com/news_economy.jpg",
+    title: "Global Economic Downturn: What’s Next for Major Economies?",
+    content: "As inflation rises and economies slow, experts warn of a global recession that could impact developing countries the hardest.",
+    user_id: 3
+  },
+  {
+    image_url: "https://example.com/news_tech_cybersecurity.jpg",
+    title: "Cybersecurity Breaches on the Rise",
+    content: "A new report reveals a sharp increase in cybersecurity breaches, with major corporations and governments being the primary targets.",
+    user_id: 4
+  },
+  {
+    image_url: "https://example.com/news_environment_oceans.jpg",
+    title: "Oceans in Peril: Plastic Pollution Crisis",
+    content: "Marine life is facing a crisis as plastic waste continues to flood the world’s oceans, with devastating effects on ecosystems.",
+    user_id: 5
+  },
+  {
+    image_url: "https://example.com/news_health_virus.jpg",
+    title: "New Virus Emerges in Southeast Asia: Health Experts Warn",
+    content: "A new virus, similar to SARS, has been detected in Southeast Asia, prompting health authorities to issue warnings about a potential outbreak.",
+    user_id: 6
+  },
+];
