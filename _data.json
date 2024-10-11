@@ -522,7 +522,8 @@
     ],
     "preview_demo_link": [
       "https://ressuman-next-events-handler-local-app.vercel.app/",
-      "https://ressuman-next-events-handler-full-stack-app.vercel.app/"
+      "https://ressuman-next-events-handler-full-stack-app.vercel.app/",
+      "https://ressuman-next-events-handler-rtdb-app.netlify.app/"
     ],
     "preview_gif": "https://yourlinkto/events-handler-app-preview.gif",
     "category": "Frontend Development",
