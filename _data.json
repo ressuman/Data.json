@@ -537,7 +537,7 @@
     "tools": ["Next.js", "React", "Markdown", "CSS Modules"],
     "github_repo_link": "https://github.com/ressuman/Next-Full-Blog-Posts-Project.git",
     "preview_demo_link": [
-      "https://ressuman-next-full-blog-posts-demo.netlify.app"
+      "https://ressuman-next-full-blog-posts-app.netlify.app/"
     ],
     "preview_gif": "https://yourlinkto/next-full-blog-posts-preview.gif",
     "category": "Frontend Development",
