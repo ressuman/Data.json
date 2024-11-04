@@ -500,13 +500,13 @@
   },
   {
     "id": 35,
-    "project_name": "Training Exercise App",
-    "description": "The Training Exercise App is an online platform designed to provide users with access to a wide range of training exercises. The app features a secure authentication system, a comprehensive catalog of training modules, and user profile management. It utilizes SQLite for data storage and offers a responsive, user-friendly interface.",
+    "project_name": "Next Authentication",
+    "description": "Next Authentication is a comprehensive authentication system utilizing NextAuth.js and MongoDB. This application enables user registration, secure login, and password management, featuring JWT for session handling. The project emphasizes best practices in web security and user experience.",
     "languages": ["JavaScript", "HTML", "CSS"],
-    "tools": ["Next.js", "React", "Server-side Rendering", "SQLite"],
-    "github_repo_link": "https://github.com/ressuman/Online-Authenticated-Training-Exercise-Project.git",
-    "preview_demo_link": ["https://ressuman-trainin"],
-    "preview_gif": "https://yourlinkto/training-exercise-app-preview.gif",
+    "tools": ["Next.js", "React", "MongoDB", "Next-Auth"],
+    "github_repo_link": "https://github.com/ressuman/Next-Authentication.git",
+    "preview_demo_link": ["https://yourdemo.link"],
+    "preview_gif": "https://yourlinkto/nextjs-authentication-preview.gif",
     "category": "Fullstack Development",
     "frameworks": ["Next.js", "React"]
   },
@@ -541,6 +541,20 @@
     ],
     "preview_gif": "https://yourlinkto/next-full-blog-posts-preview.gif",
     "category": "Frontend Development",
+    "frameworks": ["Next.js", "React"]
+  },
+  {
+    "id": 38,
+    "project_name": "GoRide - Taxi & Rideshare Platform",
+    "description": "GoRide, also known as TaxiGo, is a comprehensive rideshare platform built with Next.js 14. The app provides users with a seamless taxi booking and ridesharing experience, featuring map-based navigation using Mapbox, secure payments with Stripe, and user authentication managed by Clerk. Designed for reliability and convenience, GoRide integrates real-time location tracking and payment processing to offer a fully functional ridesharing app.",
+    "languages": ["TypeScript", "JavaScript", "HTML", "CSS"],
+    "tools": ["Next.js", "React", "Mapbox", "Stripe", "Clerk", "Tailwind CSS"],
+    "github_repo_link": "https://github.com/ressuman/Next-Taxi-Rideshare-Go-Project.git",
+    "preview_demo_link": [
+      "https://ressuman-next-taxi-go-rideshare-app.netlify.app/"
+    ],
+    "preview_gif": "https://link-to-preview-gif.com/goride-preview.gif",
+    "category": "Fullstack Development",
     "frameworks": ["Next.js", "React"]
   }
 ]
