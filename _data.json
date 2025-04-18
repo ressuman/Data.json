@@ -556,5 +556,20 @@
     "preview_gif": "https://link-to-preview-gif.com/goride-preview.gif",
     "category": "Fullstack Development",
     "frameworks": ["Next.js", "React"]
+  },
+  {
+    "id": 39,
+    "project_name": "Real-Time Chat Application",
+    "description": "A full-stack MERN chat application with real-time messaging, user authentication, and online status tracking. Features include Socket.IO for instant messaging, JWT authentication, typing indicators, image sharing, and responsive UI design. The application provides a seamless chat experience with read receipts and unread message counters.",
+    "languages": ["JavaScript", "HTML", "CSS"],
+    "tools": ["React", "Redux", "Socket.IO", "Node.js", "Express", "MongoDB"],
+    "github_repo_link": "https://github.com/ressuman/Real-Time-Chat-MERN-Project.git",
+    "preview_demo_link": [
+      "https://ressuman-real-time-chat-server-app.onrender.com",
+      "https://ressuman-real-time-chat-client-mern-app.onrender.com"
+    ],
+    "preview_gif": "https://link-to-preview-gif.com/chat-app-preview.gif",
+    "category": "Fullstack Development",
+    "frameworks": ["React", "Express.js", "Node.js"]
   }
 ]
