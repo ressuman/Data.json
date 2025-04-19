@@ -571,5 +571,48 @@
     "preview_gif": "https://link-to-preview-gif.com/chat-app-preview.gif",
     "category": "Fullstack Development",
     "frameworks": ["React", "Express.js", "Node.js"]
+  },
+  {
+    "id": 40,
+    "project_name": "G_Client Learning Management System",
+    "description": "A backend LMS platform with multi-role authentication, comprehensive course management, and financial tracking. Features JWT authentication, OTP verification, RBAC controls, and Swagger API documentation.",
+    "languages": ["JavaScript"],
+    "tools": [
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "Redis",
+      "JWT",
+      "Swagger",
+      "Nodemailer"
+    ],
+    "github_repo_link": "https://github.com/ressuman/Learning-Application-Management-System-Backend-Project.git",
+    "preview_demo_link": [
+      "https://ressuman-learning-management-system-backend-directory-api.vercel.app"
+    ],
+    "preview_gif": "https://media.giphy.com/media/lms-preview.gif",
+    "category": "Backend Development",
+    "frameworks": ["Express.js"]
+  },
+  {
+    "id": 41,
+    "project_name": "E-Commerce Product List & Cart REST API",
+    "description": "A robust Node.js backend API for e-commerce operations, featuring JWT authentication, product management, and cart functionality. Built with Express and MongoDB.",
+    "languages": ["JavaScript"],
+    "tools": [
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "JWT",
+      "Mongoose",
+      "Swagger",
+      "Jest"
+    ],
+    "github_repo_link": "https://github.com/ressuman/Backend-Assessment-Product-List-Cart-Directory-Project.git",
+    "preview_demo_link": [
+      "https://backend-product-list-cart-directory-api-ui.vercel.app/"
+    ],
+    "category": "Backend Development",
+    "frameworks": ["Express.js"]
   }
 ]
