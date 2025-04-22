@@ -614,5 +614,30 @@
     ],
     "category": "Backend Development",
     "frameworks": ["Express.js"]
+  },
+  {
+    "id": 42,
+    "project_name": "AbodeConnect Estate - Real Estate Marketplace",
+    "description": "A full-stack MERN application for property listings with advanced search, user authentication, and image uploads. Features real-time filtering, JWT auth, and responsive UI, built with React, Node.js, Express, and MongoDB.",
+    "languages": ["JavaScript"],
+    "tools": [
+      "React",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "Mongoose",
+      "JWT",
+      "Cloudinary",
+      "Redux Toolkit",
+      "Swiper",
+      "Vite",
+      "Tailwind CSS"
+    ],
+    "github_repo_link": "https://github.com/ressuman/Real-Estate-Marketplace-MERN-Project.git",
+    "preview_demo_link": [
+      "https://ressuman-abodeconnect-real-estate.onrender.com"
+    ],
+    "category": "Full Stack Development",
+    "frameworks": ["React", "Express.js"]
   }
 ]
